@@ -1,1 +1,6 @@
-# MachineLearning with KNIME
+# Machine Learning with the KNIME Analytics Platform (2# Place UNMIB ML Challenge)🥈
+KNIME Analytics Platform is free and open source, which ensures users remain on the bleeding edge of data science, 300+ connectors to data sources, and integrations to all popular machine learning libraries.\
+In this project, our goal was to find a way to provide an ccurate forecasting of the diabetes disease, in a way that could help healthcare providers to better manage the disease and reduce the risk of complications. In the framework of a machine learning challenge jointly organized by the University of Milano-Bicocca and KNIME, we deployed a GBT model that predicts the risk of developing diabetes. The results of the analysis are displayed via an interactive KNIME Data App and reveal both insights into the risk factors and the use of a low-code tool like the KNIME Analytics Platform for data exploration, modeling and visualization.\
+Here you can find a technical paper regarding the workflows we developed and an [in depth article we published on Medium](https://medium.com/low-code-for-advanced-data-science/diabetes-prediction-with-gradient-boosted-decision-trees-3f1104007d4e), pointing out all the details of our project. You can also dowload the workflows [here](https://hub.knime.com/dani_montalbano/spaces/Public/latest/team_11_diabetes~uOgE-_8gJrQAG8Lv/).
+
+Read more about it!😉
